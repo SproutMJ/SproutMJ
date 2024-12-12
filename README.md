@@ -9,8 +9,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SproutMJ&layout=compact)
 
 ### History
-
-
-주요 프로젝트
-- 캐릭터와 함께하는 일상, 포툰쿠키 [링크](https://github.com/software-maestro-starting-blue)
-- 쉽고 간단한 팀플 플랫폼, 팀바팀 [링크](https://github.com/woowacourse-teams/2023-team-by-team)
